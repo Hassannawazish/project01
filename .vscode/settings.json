@@ -1,2 +1,4 @@
 {
+    "debug.node.autoAttach": "on",
+    "terminal.explorerKind": "external"
 }
